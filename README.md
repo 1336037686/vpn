@@ -147,3 +147,9 @@ chmod +x shadowsocks.sh
 - [购买搬瓦工VPS省钱攻略：获取搬瓦工优惠码](https://wistbean.github.io/banwagong-coupon.html)
 - [使用搬瓦工快速搭建自己的VPN](https://wistbean.github.io/banwagong-vpn.html)
 - [CentOS快速搭建一个属于自己的IPsec/L2TP VPN](https://wistbean.github.io/ipsec,l2tp_vpn.html)
+
+
+经测试：
+Shadowsocks适用版本：
+windows：Shadowsocks-4.1.10.0
+android：shadowsocks-arm64-v8a-5.0.6
